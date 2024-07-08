@@ -6,7 +6,7 @@
 [<img align="left"  alt="JAESEO_CODE | Blog" width="48px" src="https://github.com/jaeseo222/jaeseo222/assets/68185825/64ce4415-497f-4635-84af-722e8aa02a98">][blog]
 [<img align="left" alt="JAESEO_CODE | Instagram" width="48px" src="https://github.com/jaeseo222/jaeseo222/assets/68185825/c462433a-250d-49a6-9edd-6c04e1f99d50" />][instagram]
 
-[email]: jaeserrr@ewha.ac.kr
+[email]: https://jaeserrr@ewha.ac.kr
 [blog]: https://avoc-o-d.tistory.com/
 [instagram]: https://www.instagram.com/jaeseo_rrr
 
