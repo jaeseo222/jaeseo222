@@ -1,5 +1,7 @@
 # Jaeseo Kim 🥑 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeseo222&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+## _About Me_
+
 ## _Contact_
 
 [<img align="left"  alt="JAESEO_CODE | Email" width="48px" src="https://github.com/jaeseo222/jaeseo222/assets/68185825/227d5403-e175-48a2-a212-d9944fbada53">][email]
@@ -23,6 +25,6 @@
 ---
 
 ### _Stats_
-[![Jaeseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeseo222&include_all_commits=true&theme=merko)](https://github.com/jaeseo222/github-readme-stats) <a href="https://github.com/jaeseo222">
-
-<img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeseo222&layout=compact&theme=merko&hide_border=true" /></a>
+<a href="https://github.com/jaeseo222"> <img align="left" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jaeseo222&include_all_commits=true&theme=merko" /></a>
+<a href="https://github.com/jaeseo222"> <img align="left" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeseo222&layout=compact&theme=merko&hide_border=true" /></a>
+<a href="https://github.com/jaeseo222"> <img align="left" style="height:180px" src="http://mazassumnida.wtf/api/generate_badge?boj=jaeserrr" /></a>
