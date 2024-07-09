@@ -1,6 +1,6 @@
 # Jaeseo Kim 🥑 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeseo222&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## _About Me_
+### _About Me_ [Click!](https://elemental-cantaloupe-b7d.notion.site/About-Jaeseo-Kim-79f9d08206454942bbab681da6738f93?pvs=4)
 
 ## _Contact_
 
@@ -22,9 +22,8 @@
 **Ehwa Womans University SW Department One-Stop Teaching Algorithm 'Altu-Bitu' 2nd, 3rd Tutor** 2022.03 - 06, 2022.09 - 12</br>
 **National Game Development Club Union 'UNIDEV'** 2023.08 - current
 
----
 
-### _Stats_
+## _Status_
 <a href="https://github.com/jaeseo222"> <img align="left" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jaeseo222&include_all_commits=true&theme=merko" /></a>
 <a href="https://github.com/jaeseo222"> <img align="left" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeseo222&layout=compact&theme=merko&hide_border=true" /></a>
 <a href="https://github.com/jaeseo222"> <img align="left" style="height:180px" src="http://mazassumnida.wtf/api/generate_badge?boj=jaeserrr" /></a>
