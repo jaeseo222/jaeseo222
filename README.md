@@ -24,6 +24,6 @@
 
 
 ## _Status_
-<a href="https://github.com/jaeseo222"> <img align="left" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jaeseo222&include_all_commits=true&theme=merko" /></a>
+<a href="https://github.com/jaeseo222"> <img align="left" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jaeseo222&theme=merko" /></a>
 <a href="https://github.com/jaeseo222"> <img align="left" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeseo222&layout=compact&theme=merko&hide_border=true" /></a>
 <a href="https://github.com/jaeseo222"> <img align="left" style="height:180px" src="http://mazassumnida.wtf/api/generate_badge?boj=jaeserrr" /></a>
