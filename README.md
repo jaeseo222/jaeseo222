@@ -1,6 +1,6 @@
 # Jaeseo Kim 🥑 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeseo222&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### _About Me_ [Click!](https://elemental-cantaloupe-b7d.notion.site/About-Jaeseo-Kim-79f9d08206454942bbab681da6738f93?pvs=4)
+### _About Me_ [Click!](https://elemental-cantaloupe-b7d.notion.site/About-Jaeseo-Kim-00877704a15642259d905b7a7165b6bb)
 
 ## _Contact_
 
@@ -8,7 +8,7 @@
 [<img align="left"  alt="JAESEO_CODE | Blog" width="48px" src="https://github.com/jaeseo222/jaeseo222/assets/68185825/64ce4415-497f-4635-84af-722e8aa02a98">][blog]
 [<img align="left" alt="JAESEO_CODE | Instagram" width="48px" src="https://github.com/jaeseo222/jaeseo222/assets/68185825/c462433a-250d-49a6-9edd-6c04e1f99d50" />][instagram]
 
-[email]: mailto:jaeserrr@ewha.ac.kr
+[email]: mailto:jaeseokim.dev@gmail.com
 [blog]: https://avoc-o-d.tistory.com/
 [instagram]: https://www.instagram.com/jaeseo_rrr
 
