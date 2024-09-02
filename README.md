@@ -1,6 +1,6 @@
 # Jaeseo Kim 🥑 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeseo222&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### _About Me_ [Click!](https://elemental-cantaloupe-b7d.notion.site/About-Jaeseo-Kim-00877704a15642259d905b7a7165b6bb)
+### _About Me_ [Click!](https://about-jaeseo.notion.site/About-Jaeseo-Kim-00877704a15642259d905b7a7165b6bb)
 
 ## _Contact_
 
